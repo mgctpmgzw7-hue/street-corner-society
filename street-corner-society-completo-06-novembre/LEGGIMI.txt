@@ -1,0 +1,18 @@
+STREET CORNER SOCIETY — sito completo, 6 novembre 2026
+
+La cartella street-corner-society contiene il sito statico pronto per Netlify.
+index.html contiene HTML, CSS e JavaScript. assets contiene immagini, font e gli altri media utilizzati. Non serve una compilazione.
+
+Per Netlify: estrarre questo archivio e caricare la cartella street-corner-society.
+Per continuare in un’altra chat: allegare questo ZIP e chiedere di modificare il sito esistente, conservando design, testi, media, font e comportamenti.
+
+Le pagine sono gestite tramite gli hash #fico-il-navile, #street-corner-society e #sottovuoto.
+Ultima modifica inclusa: didascalia della fotografia di Federico Patellani ridotta a 11px, nel font Fluxisch Else del sito.
+Le foto storiche restano dritte, con ritagli delicati, ombre leggere e piccoli spazi senza sovrapposizioni.
+
+Preservare il comportamento dello scroll e le impostazioni distinte desktop/mobile. Nessun cookie banner, hamburger o griglia nella homepage.
+Non pubblicare su Netlify o sul dominio senza richiesta. Generare uno ZIP solo quando richiesto.
+Il modulo prenotazioni utilizza FormSubmit; l’effettiva ricezione delle email non è stata verificata.
+
+Questo archivio conserva i file del sito, non l’intera cronologia della conversazione.
+Versione sorgente: 7c85fe0781c72e38408c77481fb93473fa0dfa09.
